@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Narmadha/Desktop/00000000/project1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Narmadha/Desktop/00000000/project1/xst"
+elaborate
+-ifn sorting_part.prj
+-ifmt mixed

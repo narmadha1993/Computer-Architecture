@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="916" delta="old" >&quot;<arg fmt="%s" index="1">output_part.v</arg>&quot; line <arg fmt="%d" index="2">35</arg>: Delay is ignored for synthesis.
+</msg>
+
+<msg type="warning" file="Xst" num="916" delta="old" >&quot;<arg fmt="%s" index="1">output_part.v</arg>&quot; line <arg fmt="%d" index="2">37</arg>: Delay is ignored for synthesis.
+</msg>
+
+<msg type="warning" file="Xst" num="916" delta="old" >&quot;<arg fmt="%s" index="1">output_part.v</arg>&quot; line <arg fmt="%d" index="2">39</arg>: Delay is ignored for synthesis.
+</msg>
+
+<msg type="warning" file="Xst" num="916" delta="old" >&quot;<arg fmt="%s" index="1">output_part.v</arg>&quot; line <arg fmt="%d" index="2">41</arg>: Delay is ignored for synthesis.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">i</arg>&gt; in unit &lt;<arg fmt="%s" index="2">sorting_part</arg>&gt; has a constant value of <arg fmt="%s" index="3">100</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">j</arg>&gt; in unit &lt;<arg fmt="%s" index="2">sorting_part</arg>&gt; has a constant value of <arg fmt="%s" index="3">100</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">start_display</arg>&gt; in unit &lt;<arg fmt="%s" index="2">sorting_part</arg>&gt; has a constant value of <arg fmt="%s" index="3">1</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">temp1</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">temp</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">sorted_num0</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">sorted_num1</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">sorted_num2</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num2_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num2_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num2_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num2_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num1_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num1_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num1_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num1_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">sp/sorted_num0_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">project1</arg>&gt;.
+</msg>
+
+</messages>
+

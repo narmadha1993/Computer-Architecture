@@ -1,0 +1,4 @@
+verilog work "sorting_part.v"
+verilog work "output_part.v"
+verilog work "input_part.v"
+verilog work "project1.v"
